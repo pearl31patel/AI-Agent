@@ -1,7 +1,7 @@
 [project]
-name = "coder-buddy"
+name = "Pearl Patel"
 version = "0.1.0"
-description = "Add your description here"
+description = "AI Agent"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
